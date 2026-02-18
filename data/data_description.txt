@@ -1,0 +1,1 @@
+This folder contains simulated CRM, Billing, and Onboarding datasets used for revenue leakage detection analysis.
